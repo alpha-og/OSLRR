@@ -1,5 +1,5 @@
 title: OSLRR
 
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
 
 markdown: GFM
