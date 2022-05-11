@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
 This repository is meant to serve as a home for educational resources for students. This entire project is designed with student needs kept in mind. It is recommended to clone this repository locally and use obsidian or any other markdown based notes app which supports backlinks for complete continuity and ease of use.
 
 # Map of Contents
