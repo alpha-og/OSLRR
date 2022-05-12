@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Mechanical Properties of Solids - MOC
 nav_order: 2
 has_children: true
 ---
