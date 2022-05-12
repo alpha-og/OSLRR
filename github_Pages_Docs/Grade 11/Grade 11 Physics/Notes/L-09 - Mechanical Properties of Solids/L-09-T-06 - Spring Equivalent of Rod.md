@@ -1,3 +1,10 @@
+---
+layout: default
+title: Combination of Springs
+parent: Mechanical Properties of Solids - MOC
+nav_order: 6
+---
+
 # Spring Equivalent of Rod
 
 Figure

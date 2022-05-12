@@ -1,3 +1,10 @@
+---
+layout: default
+title: Materials
+parent: Mechanical Properties of Solids - MOC
+nav_order: 1
+---
+
 ## Types of Materials
 
 1. **Perfectly Elastic**

@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Modulus of Elasticity
+parent: Mechanical Properties of Solids - MOC
+nav_order: 3
+---
 
 # Modulus Of Elasticity [$E$]
 

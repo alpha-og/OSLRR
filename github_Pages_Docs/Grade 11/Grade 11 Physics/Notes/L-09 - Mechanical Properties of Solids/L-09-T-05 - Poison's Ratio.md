@@ -1,3 +1,10 @@
+---
+layout: default
+title: Poison's Ratio
+parent: Mechanical Properties of Solids - MOC
+nav_order: 5
+---
+
 # Poison’s Ratio [$\sigma$]
 
 - $\sigma = \frac{Lateral\space Strain}{Longitudinal\space Strain}$

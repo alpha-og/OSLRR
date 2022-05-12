@@ -1,3 +1,10 @@
+---
+layout: default
+title: Combination of Springs
+parent: Mechanical Properties of Solids - MOC
+nav_order: 7
+---
+
 # Combination Of Springs
 
 ### Series

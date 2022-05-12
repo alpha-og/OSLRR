@@ -1,3 +1,10 @@
+---
+layout: default
+title: Stress and Strain
+parent: Mechanical Properties of Solids - MOC
+nav_order: 2
+---
+
 # Stress and Strain
 
 > [!info] Navigate

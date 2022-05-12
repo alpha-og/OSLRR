@@ -1,3 +1,10 @@
+---
+layout: default
+title: Energy Density in Rod
+parent: Mechanical Properties of Solids - MOC
+nav_order: 8
+---
+
 # Energy Density in Rod
 
 - $Energy\space Density = \frac{Energy}{Volume}$
@@ -24,4 +31,4 @@
 - 3 Forms:
 	    1. $Energy\space Density = \frac{Y}{2}(Strain)^2$ ——[$Strain = \frac{\Delta l}{l}$]
 	    2. $Energy\space Density = \frac{(Stress)(Strain)}{2}$ ——[$Y = \frac{Stress}{Strain}$]
-		
+		3. $Energy\space Density = \frac{{(Stress)}^2}{2Y}$ ——[$Y = \frac{Stress}{Strain}$]

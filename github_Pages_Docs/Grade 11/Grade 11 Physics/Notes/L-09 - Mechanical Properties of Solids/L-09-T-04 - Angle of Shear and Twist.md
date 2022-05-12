@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Angle of Shear and Twist
+parent: Mechanical Properties of Solids - MOC
+nav_order: 4
+---
 
 # Angle of Shear - Angle of Twist Relation
 
