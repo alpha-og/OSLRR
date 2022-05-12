@@ -18,7 +18,7 @@ nav_order: 2
 ## Stress
 
 - Stress is defined as the restoring forced developed per unit area
-- $Stress = \frac{F_{r}}{A}$ | $F_r$: Restoring Force | $A$: Area
+- $$Stress = \frac{F_{r}}{A}$$ | $F_r$: Restoring Force | $A$: Area
 - Unit: $Nm^{− 2}$
 - Dimension: $[ML^{-1}T^{-2}]$
 - Stress is a tensor quantity of rank 2
