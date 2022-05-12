@@ -50,9 +50,9 @@ nav_order: 1
         7. Work [$ML^2T^{-2}$]
         8. Voltage [$ML^2T^{-3}A^{-1}$]
 3. Supplementary
-    1. {% raw %}Plane Angle ($\theta$){% endraw %}
+    1. Plane Angle ($\theta$)
        ![[G-11_PL-1_D-PlaneAngle.png|400]]
-       $$\theta = \frac{Arc\space Length}{Radius}$$
+       <!--$$\theta = \frac{Arc\space Length}{Radius}$$-->
     2. Solid angle ($\Omega$)
         Formed by rotation of plane angle
         ![[G-11_PL-1_D-SolidAngle.png|400]]
