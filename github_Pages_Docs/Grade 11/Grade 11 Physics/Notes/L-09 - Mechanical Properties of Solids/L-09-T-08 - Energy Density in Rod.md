@@ -30,5 +30,5 @@ nav_order: 8
 - General Equation: $Energy\space Density = \frac{Y}{2}{(\frac{\Delta l}{l})}^2$
 - 3 Forms:
 	    1. $Energy\space Density = \frac{Y}{2}(Strain)^2$ ——[$Strain = \frac{\Delta l}{l}$]
-        2. $Energy\space Density = \frac{{Stress}^2}{2Y}$ ——[$Y = \frac{Stress}{Strain}$]
-	    3. $Energy\space Density = \frac{(Stress)(Strain)}{2}$ ——[$Y = \frac{Stress}{Strain}$]
+	    2. $Energy\space Density = \frac{(Stress)(Strain)}{2}$ ——[$Y = \frac{Stress}{Strain}$]
+		{% raw %}3. $Energy\space Density = \frac{{(Stress)}^2}{2Y}$ ——[$Y = \frac{Stress}{Strain}$]{% endraw %}
