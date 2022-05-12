@@ -1,5 +1,10 @@
 This repository is meant to serve as a home for educational resources for students. This entire project is designed with student needs kept in mind. It is recommended to clone this repository locally and use obsidian or any other markdown based notes app which supports backlinks for complete continuity and ease of use.
 
+Some things you need to know before continuing:
+1. The contents of the repository are still being populated and will be filled up in the upcoming months. 
+2. The github pages hosted version of this repository will either have missing contents or latex that hasn't rendered until I manage to resolve the issue with mathjax not working on the contents of this repo as intended, on github pages.
+3. The resources provided here may or may not contain errors, discrepancies or inconsistencies; if found it must be reported by opening an issue.
+
 # Map of Contents
 1. [Prerequisites](#prerequisites)
 2. [Grade-11](#Grade-11)
