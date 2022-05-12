@@ -4,7 +4,8 @@ remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
 
-markdown: kramdown
+markdown: GFM
 
 exclude:
   - Templates/
+  - study_Material/
