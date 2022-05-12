@@ -56,5 +56,5 @@ nav_order: 1
     2. Solid angle ($\Omega$)
         Formed by rotation of plane angle
         ![[G-11_PL-1_D-SolidAngle.png|400]]
-        $$\Omega = \frac{Area\space above\space angle}{{Radius}^2}$$
+        
     - Note: $\Omega = 2\pi(1-\cos{\theta})$
