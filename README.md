@@ -58,3 +58,6 @@ Contributions to the project are always welcome. We suggest you to adhere to the
 1. Names of chapters and subjects to be given a header 1 size with a single hash ``# Chapter/Subject``
 2. Names of topics to be given a header 2 size with a double hash ``## Topic``
 3. Any further bifurcations, i.e subtopics of topics must follow suit by adding extra hashes to indicate heirarchy
+4. Folder name for a chapter must be in the format: ``L-{Lesson number} - {Chapter Name}``
+5. Markdown file name for a topic in a chapter must be in the format: ``L-{Lesson number}-T-{Topic number} - {Topic name}``
+6. It will be convenient if the markdown files are passed through the script ``liquid-formatter.py`` before committing it
